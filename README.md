@@ -26,12 +26,3 @@ This project demonstrates an end-to-end data analysis workflow using SQL, starti
 - SQL (MySQL)  
 - MySQL Workbench / Command Line  
 
----
-
-
-## ▶️ How to Run  
-
-Clone the repository:
-```bash
-git clone https://github.com/your-username/tech-layoffs-data-analysis-pipeline.git
-cd tech-layoffs-data-analysis-pipeline
